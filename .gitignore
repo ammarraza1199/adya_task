@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.env
+*.db
+.DS_Store
+.gemini/
+agentic-hrms/backend/hrms_v3.db
+agentic-hrms/backend/node_modules/
+agentic-hrms/frontend/node_modules/
+agentic-hrms/frontend/dist/
